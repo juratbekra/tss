@@ -1,0 +1,14 @@
+{
+  "name": "9-dars",
+  "version": "1.0.0",
+  "description": "qwerty",
+  "main": "index.js",
+  "scripts": {
+    "test": "qwerty"
+  },
+  "author": "shohruhbek",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
